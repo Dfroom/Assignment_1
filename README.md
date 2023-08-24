@@ -35,6 +35,8 @@ CBDCs and crypto currencies
 
 * What are the other major companies in this domain?
 Bank of Canada's Jasper, R3 (Corda), Crypto-currencies (Bitcoion, StableCoins, etc.) 
+
+While Nanopay offers solutions to to treasuries and other government institutions they are primarily in the payment processing domain of the financial industry. This segment of the industry has seen many advancements and innovations over the past decade, including Crypto-Currencies, Central Bank Digital Currencies (CBDCs), machine learning, artificial intellegence, Blockchain, and "Stable Coins" and more. While many of these technologies pose a potential threat to Nanopay, they have utilized many of these technologies in their solutions. Their acquisition of MintChip a Royal Canadian Mint created cryptocurrency, of sorts, was in many respects a type of CBDC; while their use of Blockchain with a centralized ledger allows for quick payment processing. While Nanopay has doen an incredible job in integrating new technologies to "Build(ing) the operating system for money" they face stiff competition. projects like the bank of Cnada's Jasper aim to create CBDCs to be used throughout their country's financial system, decentralized ledger Crypto-Currencies like Bitcoin seek to replace fiat all together, "Stable Coins" like USDT try to tether or "peg" their Crypto-Currency to the USD or some other store of value, and companies like R3 have solutions like their Corda a Decentralized Ledger Technology competitor to Nanopay.
 ## Results
 
 * What has been the business impact of this company so far?
@@ -42,6 +44,8 @@ Bank of Canada's Jasper, R3 (Corda), Crypto-currencies (Bitcoion, StableCoins, e
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+
+
 
 Their technology ahs allowed Interac to offer real-time payments and transfers from Canadian accounts to high-volume international corridors, the Brazillian company BePay to offer international remittances, 
 
