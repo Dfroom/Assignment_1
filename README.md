@@ -21,6 +21,8 @@ MintChip
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 CLT Hybrid Blockchain
+
+Nanopay was founded to combat slow, inefficient, and outdated payment infrastructure. As such it has three intended customers: Treasuries, Banks, and Businesses. Nanopay has been succesful in courting these customers and todate has numerous partnerships including those with Interac, BMO, RBC, Scotiabank, flinks, Intuit Quickbooks, and the National Bank of Pakistan. Nanopay uses a Centralized Ledger Technology and a Hybrid Blockchain to offer a reduced cost with the security of an immutable ledger, simplified governance, and faster payments than a decentralized ledger. Their acquisition of MintChip provided Nanopay with an advantage over competitors as MintChip was government developed, is tied to the Canadaian dollar, and compliant with Canadian, and many foreign, regulations.
 ## Landscape:
 
 * What domain of the financial industry is the company in?
@@ -29,7 +31,7 @@ Payment Processing
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
-CBDCs
+CBDCs and crypto currencies
 
 * What are the other major companies in this domain?
 Bank of Canada's Jasper, R3 (Corda), Crypto-currencies (Bitcoion, StableCoins, etc.) 
@@ -40,6 +42,9 @@ Bank of Canada's Jasper, R3 (Corda), Crypto-currencies (Bitcoion, StableCoins, e
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+
+Their technology ahs allowed Interac to offer real-time payments and transfers from Canadian accounts to high-volume international corridors, the Brazillian company BePay to offer international remittances, 
+
 
 ## Recommendations
 
